@@ -1,0 +1,10 @@
+{
+    "name": "ejemplo/proyecto",
+    "description": "description",
+    "require": {
+        "phpunit/phpunit": "^9.1",
+        "mockery/mockery": "^1.2"
+    },
+    "require-dev": {
+    }
+}
